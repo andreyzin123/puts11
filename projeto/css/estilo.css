@@ -78,6 +78,9 @@ header h1 {
     text-align: center;
     position: fixed;
     bottom: 0;
+    max-height: 20%
 }
-h5{ margin-top: 200px;}
+h5{ margin-top: 2px;}
 a{ text-align: right;}
+
+ 
